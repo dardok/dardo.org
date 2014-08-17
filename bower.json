@@ -1,0 +1,23 @@
+{
+  "name": "dardo.org",
+  "version": "0.0.1",
+  "authors": [
+    "Dardo <dardokleiner@gmail.com>"
+  ],
+  "description": "Dardo",
+  "main": "index.xhtml",
+  "keywords": [
+    "dardo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
